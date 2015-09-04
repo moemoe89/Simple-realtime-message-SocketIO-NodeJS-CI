@@ -44,7 +44,7 @@
   </div>
 </nav>
     
-
+<center><a href="<?php echo site_url('message');?>">Click here to see the list message</a></center><br />
 <div class="container">
   <div class="row">
     <div id="notif"></div>
